@@ -13,8 +13,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=c:\\Users\\wbw20\\Desktop\\Project\\ESP32\\ESP_Project\\sample_project\\build"
+    "--compile-commands-dir=c:\\Users\\wbw20\\Desktop\\Project\\ESP32\\ESP_Project\\GPIO\\build"
   ],
-  "iis.configDir": "",
   "idf.flashType": "DFU"
 }

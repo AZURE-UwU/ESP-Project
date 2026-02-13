@@ -43,7 +43,7 @@ void task1(void *pvParameters) {
         gpio_set_level(LED_GPIO, 1);
         vTaskDelay(pdMS_TO_TICKS(500));
         gpio_set_level(LED_GPIO, 0);
-        vTaskDelay(pdMS_TO_TICKS(500));
+        vTaskDelay(pdMS_TO_TICKS(100));
     }
 }
 
