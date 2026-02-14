@@ -15,5 +15,5 @@
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\wbw20\\Desktop\\Project\\ESP32\\ESP_Project\\GPIO\\build"
   ],
-  "idf.flashType": "DFU"
+  "idf.flashType": "JTAG"
 }
